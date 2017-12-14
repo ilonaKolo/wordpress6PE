@@ -1,3 +1,4 @@
 [07-Dec-2017 10:45:05 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/ilonakolossovaik/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
 [07-Dec-2017 10:55:08 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/ilonakolossovaik/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
 [07-Dec-2017 10:57:39 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/ilonakolossovaik/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[14-Dec-2017 06:43:57 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/ilonakolossovaik/public_html/wordpress/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
